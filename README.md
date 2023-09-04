@@ -1,6 +1,8 @@
 <h1 align='center'>🎥🔊 Sistema de Alarme </h1>
-Sistema de Alarme com Visão Computacional em Python, usando o cv2 e Yolov8.
 
+<h3>Sistema de Alarme com Visão Computacional em Python, usando o cv2 e Yolov8.</h3>
+
+<br>
 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
